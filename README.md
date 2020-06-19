@@ -1,0 +1,2 @@
+- <code>g++ src/main.cpp src/classes/*.cpp</code>
+- <code>./a.out /dev/sdd</code>
